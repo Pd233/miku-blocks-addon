@@ -1,0 +1,7 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "miku_original",
+        "metalness_emissive_roughness": "miku_original_mer"
+    }
+}

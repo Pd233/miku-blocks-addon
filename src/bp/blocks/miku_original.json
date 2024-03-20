@@ -1,0 +1,17 @@
+{
+    "format_version": "1.20.41",
+    "minecraft:block": {
+        "description": {
+            "identifier": "pd:miku_original",
+            "register_to_creative_menu": true
+        },
+        "components": {
+            "minecraft:geometry": "geometry.miku_original",
+            "minecraft:material_instances": {
+                "*": {
+                    "texture": "miku_original"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "",
+        "name": "Miku blocks addon behavior pack",
+        "uuid": "599cec13-1eab-4fd6-b426-ed4ac36efdf2",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            16,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "data",
+            "uuid": "3ba7e1d3-f01a-40bf-af19-411409ec1e18",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "cf410364-2845-40ae-9f3c-d63b939d7384",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
